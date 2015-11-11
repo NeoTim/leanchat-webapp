@@ -9,7 +9,7 @@ LeanChat 项目构成：
 * [leanchat-android](https://github.com/leancloud/leanchat-android)，Android 客户端
 * [leanchat-ios](https://github.com/leancloud/leanchat-ios)，iOS 客户端
 * [leanChat-webapp](https://github.com/leancloud/leanchat-webapp)，Web 客户端
-* [leanchat-cloud-code](https://github.com/leancloud/leanchat-cloudcode)，服务端。
+* [leanchat-cloud-code](https://github.com/leancloud/leanchat-cloudcode)，服务端
 
 ## 开发
 
