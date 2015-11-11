@@ -4,7 +4,7 @@
 
 这个项目主要用来方便测试 LeanChat。比较简单。更复杂的 Web IM 项目可参考 [LeanMessageDemo](http://leancloud.github.io/leanmessage-demo/) 以及它的 [Github 项目](https://github.com/leancloud/leanmessage-demo)。
 
-LeanChat 项目构成：
+## LeanChat 项目构成
 
 * [leanchat-android](https://github.com/leancloud/leanchat-android)，Android 客户端
 * [leanchat-ios](https://github.com/leancloud/leanchat-ios)，iOS 客户端
