@@ -2,12 +2,14 @@
 
 网页地址：http://leanchat.avosapps.com/
 
+这个项目主要用来方便测试 LeanChat。比较简单。更复杂的 Web IM 项目可参考 [LeanMessageDemo](http://leancloud.github.io/leanmessage-demo/) 以及它的 [Github 项目](https://github.com/leancloud/leanmessage-demo)。
+
+LeanChat 项目构成：
+
 * [leanchat-android](https://github.com/leancloud/leanchat-android)，Android 客户端
 * [leanchat-ios](https://github.com/leancloud/leanchat-ios)，iOS 客户端
 * [leanChat-webapp](https://github.com/leancloud/leanchat-webapp)，Web 客户端
-* [leanchat-cloud-code](https://github.com/leancloud/leanchat-cloudcode)，服务端。使用了 LeanCloud 的[云引擎](https://leancloud.cn/docs/cloud_code_guide.html)。
-
-这个项目主要用来方便测试 LeanChat。比较简单。更复杂的 Web IM 项目可参考 [LeanMessageDemo](http://leancloud.github.io/leanmessage-demo/) 以及它的 [Github 项目](https://github.com/leancloud/leanmessage-demo)。
+* [leanchat-cloud-code](https://github.com/leancloud/leanchat-cloudcode)，服务端。
 
 ## 开发
 
